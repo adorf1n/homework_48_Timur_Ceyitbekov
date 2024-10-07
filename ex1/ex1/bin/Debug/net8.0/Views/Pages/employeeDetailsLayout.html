@@ -1,0 +1,18 @@
+@model dynamic
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Employee Details</title>
+  </head>
+  <body>
+    <h1>Employee Details</h1>
+    <p><strong>ID:</strong> @Model.Employee.ID</p>
+    <p><strong>Name:</strong> @Model.Employee.Name</p>
+    <p><strong>Age:</strong> @Model.Employee.Age</p>
+    <a href="http://localhost:7777/showEmployees.html"
+      >Назад к списку сотрудников</a
+    >
+  </body>
+</html>

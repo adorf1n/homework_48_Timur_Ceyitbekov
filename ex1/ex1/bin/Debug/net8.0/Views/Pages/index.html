@@ -1,0 +1,9 @@
+﻿@{ Layout = "layout"; }
+
+<h1>@Model.IndexTitle</h1>
+
+@if(Model.X > 0){
+<h1>X > 0</h1>
+} @for(var i = 0; i < 10; i++){
+<p>Line @i</p>
+}

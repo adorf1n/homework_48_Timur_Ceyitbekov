@@ -1,0 +1,7 @@
+C:\Users\ad0rfin\Desktop\C# Курс\hw48\ex1\ex1\bin\Debug\ex1.exe.config
+C:\Users\ad0rfin\Desktop\C# Курс\hw48\ex1\ex1\bin\Debug\ex1.exe
+C:\Users\ad0rfin\Desktop\C# Курс\hw48\ex1\ex1\bin\Debug\ex1.pdb
+C:\Users\ad0rfin\Desktop\C# Курс\hw48\ex1\ex1\obj\Debug\ex1.csproj.AssemblyReference.cache
+C:\Users\ad0rfin\Desktop\C# Курс\hw48\ex1\ex1\obj\Debug\ex1.csproj.CoreCompileInputs.cache
+C:\Users\ad0rfin\Desktop\C# Курс\hw48\ex1\ex1\obj\Debug\ex1.exe
+C:\Users\ad0rfin\Desktop\C# Курс\hw48\ex1\ex1\obj\Debug\ex1.pdb
